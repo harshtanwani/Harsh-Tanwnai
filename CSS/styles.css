@@ -1,0 +1,127 @@
+title{
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #EAEAEA;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.top-container {
+  background-color: #87CEEB;
+  height: 575px;
+  width: 100%;
+  position: relative;
+  padding-top: 75px;
+
+}
+
+.profile-pic{
+  position: absolute;
+  left: 30px;
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
+  top:30px;
+}
+
+
+h1{
+  margin: 0;
+  padding: 50px 0 0 0;
+  font-family: 'Parisienne', cursive;
+  font-size: 75px;
+}
+
+h2{
+  font-family: 'Lobster Two', cursive;
+}
+
+
+h3{
+  margin-top: 0;
+}
+
+.profile{
+  margin: 0;
+  padding: 20px;
+}
+
+.sub-head{
+  margin-top: 5px;
+  font-family: 'Sacramento', cursive;
+  font-size: 45px;
+}
+
+.cloud1{
+  position: absolute;
+  top: 40px;
+  right: 330px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 95px;
+  top: 290px;
+}
+
+.cloud3{
+  position: absolute;
+  right: 100px;
+  top: 200px
+}
+
+.cloud4{
+  position: absolute;
+  left: 300px;
+  top: 85px;
+}
+
+.wings{
+  position: absolute;
+  height: 110px;
+    width: 100px;
+    right: 337px;
+    top: 340px;
+}
+
+.mountain{
+  position: absolute;
+  bottom: 0;
+  height: 50%;
+  width: 100%;
+  right: 0;
+
+}
+
+
+.middle-container{
+  height: 870px;
+  width: 100%;
+  background-color: #FDFDFD;
+  position: relative;
+
+
+}
+
+.bottom-container{
+  height: 85px;
+  width: 100%;
+  background-color: #AAAAAA;
+
+}
+
+.front-end{
+  text-decoration: underline;
+}
+
+.noidea{
+  width: 23%;
+}
+
+.stillnoidea{
+  width: 23%;
+}
